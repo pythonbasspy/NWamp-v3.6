@@ -12,9 +12,6 @@ O **NWamp** é um player de música e visualizador de áudio baseado em navegado
 
 Diferente de visualizadores comuns, o NWamp possui uma **Engine de Áudio Híbrida**: ele pode tocar seus arquivos locais (`.mp3`, `.wav`, etc.) ou **capturar o áudio do sistema** (YouTube, Spotify, Soundcloud) através da API de *Display Media*, permitindo que você visualize qualquer som que esteja tocando no seu computador.
 
-![Screenshot do Visualizador](https://via.placeholder.com/800x400?text=Screenshot+do+NWamp+-+Túnel+Hiperespacial)
-*(Substitua este link por uma imagem real do seu projeto)*
-
 ## ✨ Funcionalidades
 
 ### 🎧 Reprodução e Streaming
@@ -84,4 +81,5 @@ Feito com 💜 e muita música.
 **Projeto criado para portfólio**
 
 **🛠️ DESENVOLVIDO POR:**[pythonbasspy]
+
 [https://www.linkedin.com/in/elias-rodrigues-de-oliveira-filho-43503123/]
